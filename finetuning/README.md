@@ -1,1 +1,1 @@
-Fine-tuning avec Hugging Face : https://huggingface.co/course .
+Fine-tuning avec Hugging Face : https://huggingface.co/course 
